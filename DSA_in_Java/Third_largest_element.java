@@ -23,7 +23,7 @@ class Third_largest_element
 	            }
 	        }
 	    }
-	    return max;
-	    
+	    return max;    
     }
 }
+
